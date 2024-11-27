@@ -1,0 +1,23 @@
+*.orig
+*.pyc
+*.swp
+.env
+*.log
+
+/.cargo_home/
+/.vs/
+/.vscode/
+
+# MacOS generated files
+.DS_Store
+.DS_Store?
+
+.idea/
+
+node_modules/
+
+# Vite
+.vite/
+dist/
+.swc/
+
